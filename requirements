@@ -1,0 +1,6 @@
+pyrogram
+requests
+schedule
+psutil
+pytz
+hurry.filesize
